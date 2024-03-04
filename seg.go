@@ -18,8 +18,8 @@ const (
 	USER_ID = "<your user_id>"
 	ZH_TOKEN = "<your zh_token>"
 
-	FILE_PATH = "l.stl" // 本地stl文件地址
-	JAW_TYPE = "Lower" // 上颌为Upper, 下颌为Lower
+	FILE_PATH = "l.stl" // local STL file location
+	JAW_TYPE = "Lower" // Upper for upper jaw, Lower for lower jaw
 )
 
 
